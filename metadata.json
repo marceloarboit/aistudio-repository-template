@@ -1,0 +1,5 @@
+{
+  "name": "ConcretoTrack Pro",
+  "description": "Aplicativo mobile-first para gestão completa de concretagens em obras. Inclui controle de volume, slump, quebra (wastage), fornecedores e análise de dados via IA.",
+  "requestFramePermissions": []
+}
